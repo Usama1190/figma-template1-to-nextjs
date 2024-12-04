@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <div className="my-6">
-      <ul className="flex justify-center gap-6 items-center text-sm">
+      <ul className="flex px-14 gap-6 items-center text-sm">
         <li>
           <a href="#" className="text-[30px] font-bold text-black">
             SHOP.CO
